@@ -4,5 +4,5 @@ I'm Hanisa and I'm an iOS Engineer from Sydney, Australia. I write and mentor en
 I go to the University of Technology Sydney and post weekly articles on Computer Science Concepts. 
 
 ## Contact 💌
-Email: hanisa@techwithhanisa.com
+Email: techwithhanisa@gmail.com
 
